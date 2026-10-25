@@ -1,0 +1,9 @@
+.playButton {
+  background-color: green;
+}
+.pauseButton {
+  background-color: yellow;
+}
+.resetButton {
+  background-color: red;
+}
